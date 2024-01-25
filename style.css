@@ -1,3 +1,12 @@
 h1 {
-    color: green;
+    color: rgb(255, 0, 174);
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: cornflowerblue;
+}
+
+body {
+    background-color: slategray;
 }
